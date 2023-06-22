@@ -30,10 +30,6 @@ VBA Email Mining is a collection of VBA scripts for extracting and analyzing ema
 3. Customize the scripts to match your email environment and requirements.
 4. Execute the scripts to start extracting and analyzing email data.
 
-## Usage
-
-Detailed usage instructions, examples, and customization options can be found in the [Documentation](docs/README.md) folder.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
